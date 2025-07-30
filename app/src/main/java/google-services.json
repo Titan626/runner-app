@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953418763952",
+    "project_id": "runner-e79e8",
+    "storage_bucket": "runner-e79e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953418763952:android:b353095609b8af07c2f575",
+        "android_client_info": {
+          "package_name": "com.example.Runner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLa11esA7BNQ4b_fdxbhUzq4eM9yM-PDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
